@@ -1,4 +1,5 @@
 # Python 3.12.1
+# такое же задание есть в хэндбуке по алгоритмам от Яндекс
 
 n, k = map(int, input().split())
 x = sorted(set(map(int, input().split())))
