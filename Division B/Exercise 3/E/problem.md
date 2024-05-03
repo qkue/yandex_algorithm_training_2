@@ -29,9 +29,9 @@
          </p></span></div>
    <h2>Формат ввода</h2>
    <div class="input-specification"><span style="">
-         <p>Сначала задано число <span class="tex-math-inline"><img class="tex-math" src="/testsys/tex/render/TSBcbGVxc2xhbnQgMTAw.png"></span> - количество свидетелей. Далее идет <span class="tex-math-text">M</span> строк, каждая из которых описывает показания очередного свидетеля. Эти строки непустые и состоят из не более чем 20 символов.
+         <p>Сначала задано число <span class="tex-math-inline"><img class="tex-math" src="pic1.png"></span> - количество свидетелей. Далее идет <span class="tex-math-text">M</span> строк, каждая из которых описывает показания очередного свидетеля. Эти строки непустые и состоят из не более чем 20 символов.
             Каждый символ в строке - либо цифра, либо заглавная латинская буква, причём символы могут повторяться. <br> 
-         </p></span><p>Затем идёт число <span class="tex-math-inline"><img class="tex-math" src="/testsys/tex/render/TiBcbGVxc2xhbnQgMTAwMA==.png"></span> - количество номеров. Следующие строки представляют из себя номера подозреваемых машин и имеют такой же формат, как и показания
+         </p></span><p>Затем идёт число <span class="tex-math-inline"><img class="tex-math" src="pic2.png"></span> - количество номеров. Следующие строки представляют из себя номера подозреваемых машин и имеют такой же формат, как и показания
          свидетелей.
       </p>
    </div>
