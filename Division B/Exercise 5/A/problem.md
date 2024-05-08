@@ -26,7 +26,7 @@
    <div class="input-specification"> В первой строке записано два целых числа <!--l. 50--><math display="inline" style="text-indent: 0em;" xmlns="http://www.w3.org/1998/Math/MathML"><mi>n</mi></math>
       и <!--l. 50--><math display="inline" style="text-indent: 0em;" xmlns="http://www.w3.org/1998/Math/MathML"><mi>q</mi></math>
       (<!--l. 50--><math display="inline" style="text-indent: 0em;" xmlns="http://www.w3.org/1998/Math/MathML"><mn>1</mn> <mo>≤</mo>
-      <mi>n</mi><mo>,</mo><mi>q</mi><mspace width="1em"> <mo>≤</mo> <mn>3</mn> <mo>⋅</mo> <mn>1</mn><msup><mrow><mn>0</mn></mrow><mrow><mn>5</mn></mrow></msup></mspace></math>)
+      <mi>n</mi><mo>,</mo><mi>q</mi><mspace width="1em"> <mo>≤</mo> <mn>3</mn> <mo>⋅</mo> <mn>1</mn><msup><mrow><mn>0</mn></mrow><mrow><sup>5</sup></mrow></msup></mspace></math>)
       - размер массива и количество запросов. <!--l. 52-->
       <p style="text-indent: 0em;">Во второй строке записаны <!--l. 52--><math display="inline" style="text-indent: 0em;" xmlns="http://www.w3.org/1998/Math/MathML"><mi>n</mi></math>
       целых чисел <!--l. 52--><math display="inline" style="text-indent: 0em;" xmlns="http://www.w3.org/1998/Math/MathML"><msub><mrow><mi>a</mi></mrow><mrow><mi>i</mi></mrow></msub></math>
