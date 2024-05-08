@@ -23,7 +23,7 @@
    <h2></h2>
    <div class="legend"> Дан массив из <!--l. 47--><math display="inline" style="text-indent: 0em;" xmlns="http://www.w3.org/1998/Math/MathML"><mi>N</mi></math>
       целых чисел. Все числа от <!--l. 47--><math display="inline" style="text-indent: 0em;" xmlns="http://www.w3.org/1998/Math/MathML">
-      <mo>−</mo> <mn>1</mn><msup><mrow><mn>0</mn></mrow><mrow><mn>9</mn></mrow></msup></math> до <!--l. 47--><math display="inline"
+      <mo>−</mo> <mn>1</mn><msup><mrow><mn>0</mn></mrow><mrow><mn><sup>9</sup></mn></mrow></msup></math> до <!--l. 47--><math display="inline"
       style="text-indent: 0em;" xmlns="http://www.w3.org/1998/Math/MathML"><mn>1</mn><msup><mrow><mn>0</mn></mrow><mrow><mn>9</mn></mrow></msup></math>.
       <!--l. 49-->
       <p style="text-indent: 0em;">Нужно уметь отвечать на запросы вида <span style="font-family: monospace;">“Cколько чисел имеют
