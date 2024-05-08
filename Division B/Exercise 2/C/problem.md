@@ -32,7 +32,7 @@
    </div>
    <h2>Формат ввода</h2>
    <div class="input-specification"> Входные данные содержат непустую строку, состоящую из строчных латинских букв, которую принёс заказчик. Длина строки не превосходит
-      <!--l. 56--><math display="inline" style="text-indent: 0em;" xmlns="http://www.w3.org/1998/Math/MathML"><mn>1</mn><msup><mrow><mn>0</mn></mrow><mrow><mn>4</mn></mrow></msup></math>.
+      <!--l. 56--><math display="inline" style="text-indent: 0em;" xmlns="http://www.w3.org/1998/Math/MathML"><mn>1</mn><msup><mrow><mn>0</mn></mrow><mrow><sup>4</sup></mrow></msup></math>.
       
    </div>
    <h2>Формат вывода</h2>
