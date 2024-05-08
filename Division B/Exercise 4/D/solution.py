@@ -8,7 +8,7 @@ place = 450
 first_electoral = 0
 answer = dict()
 
-with open('C:/python/yandex_algo_trainee_v2/input.txt', 'rt', encoding = 'utf-8') as file_input:
+with open('input.txt', 'rt', encoding = 'utf-8') as file_input:
     for line in file_input:
         line = line.split()
         cnt = int(line[-1])
