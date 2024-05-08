@@ -40,11 +40,11 @@
       54-->
       <p style="text-indent: 0em;">Затем число запросов <!--l. 54--><math display="inline" style="text-indent: 0em;" xmlns="http://www.w3.org/1998/Math/MathML"><mi>K</mi></math>
       (<!--l. 54--><math display="inline" style="text-indent: 0em;" xmlns="http://www.w3.org/1998/Math/MathML"><mn>1</mn> <mo>≤</mo>
-      <mi>K</mi> <mo>≤</mo> <mn>1</mn><msup><mrow><mn>0</mn></mrow><mrow><mn>5</mn></mrow></msup></math>). <!--l. 56-->
+      <mi>K</mi> <mo>≤</mo> <mn>1</mn><msup><mrow><mn>0</mn></mrow><mrow><mn><sup>5</sup></mn></mrow></msup></math>). <!--l. 56-->
       </p><p style="text-indent: 0em;">Далее <!--l. 56--><math display="inline" style="text-indent: 0em;" xmlns="http://www.w3.org/1998/Math/MathML"><mi>K</mi></math>
       пар чисел <!--l. 56--><math display="inline" style="text-indent: 0em;" xmlns="http://www.w3.org/1998/Math/MathML"><mi>L</mi><mo>,</mo><mi>R</mi></math>
       (<!--l. 56--><math display="inline" style="text-indent: 0em;" xmlns="http://www.w3.org/1998/Math/MathML"> <mo>−</mo> <mn>1</mn><msup><mrow><mn>0</mn></mrow><mrow><mn>9</mn></mrow></msup>
-      <mo>≤</mo> <mi>L</mi> <mo>≤</mo> <mi>R</mi> <mo>≤</mo> <mn>1</mn><msup><mrow><mn>0</mn></mrow><mrow><mn>9</mn></mrow></msup></math>)
+      <mo>≤</mo> <mi>L</mi> <mo>≤</mo> <mi>R</mi> <mo>≤</mo> <mn>1</mn><msup><mrow><mn>0</mn></mrow><mrow><mn><sup>9</sup></mn></mrow></msup></math>)
       — собственно запросы. </p>
       <p></p>
       
